@@ -35,7 +35,7 @@ pm_caption += f"┣•➳➠ `Telethon:` `{version.__version__}` \n"
 pm_caption += f"┣•➳➠ `Version:` `{mafiaversion}`\n"
 pm_caption += f"┣•➳➠ `Sudo:` `{sudou}`\n"
 pm_caption += f"┣•➳➠ `Channel:` [ᴊᴏɪɴ](https://t.me/warbotzSupport)\n"
-pm_caption += f"┣•➳➠ `Creator:` [Himanshu](https://t.me/xAbhish3k)\n"
+pm_caption += f"┣•➳➠ `Creator:` [Abhishek](https://t.me/xAbhish3k)\n"
 pm_caption += f"┗━━━━━━━━━━━━━━━━━━━\n"
 pm_caption += " [🔥REPO🔥](https://t.me/waruserbot) 🔹 [📜License📜](https://t.me/waruserbot)"
 
