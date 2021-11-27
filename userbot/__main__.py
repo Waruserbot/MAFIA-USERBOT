@@ -12,7 +12,7 @@ from pathlib import Path
 import asyncio
 import telethon.utils
 
-MAFIA_PIC = Config.ALIVE_PIC or "https://telegra.ph/file/e97d640332ce5eadb3f89.mp4"
+MAFIA_PIC = Config.ALIVE_PIC or "https://telegra.ph/file/be4b599f2b00d9660b5a2.jpg"
 
 os.system("pip install -U telethon")
 
