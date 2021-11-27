@@ -37,7 +37,7 @@ pm_caption += f"┣•➳➠ `Sudo:` `{sudou}`\n"
 pm_caption += f"┣•➳➠ `Channel:` [ᴊᴏɪɴ](https://t.me/warbotz)\n"
 pm_caption += f"┣•➳➠ `Creator:` [Abhishek](https://t.me/xAbhish3k)\n"
 pm_caption += f"┗━━━━━━━━━━━━━━━━━━━\n"
-pm_caption += " [🔥REPO🔥](https://t.me/waruserbot) 🔹 [📜License📜](https://t.me/waruserbot)"
+pm_caption += " [REPO](https://t.me/waruserbot) 🔹 [📜License📜](https://t.me/waruserbot)"
 
 # @command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
